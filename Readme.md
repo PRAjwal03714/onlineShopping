@@ -56,10 +56,5 @@ The app should now be running at `http://localhost:3000`.
 - Add a checkout and payment integration.
 - Improve product filtering and sorting.
 
-## License
-This project is licensed under the MIT License.
-
----
-Feel free to modify this README based on additional features or updates!
 
 ![image](https://github.com/user-attachments/assets/c5b55947-6e1f-4042-ae5e-2d03b00efe72)
